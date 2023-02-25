@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'gemoshine-backend'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AC5B726581654DF6AA8993448AA24A9D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_33F61A025859420FBEA2F22BED4B6E18 }}
           package: '*.jar'
